@@ -21,7 +21,7 @@
 title: 隐私政策
 email: your-email@example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zixicc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zixicc.github.io/lxb" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
