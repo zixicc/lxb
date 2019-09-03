@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+<div>
+{% capture p %}{% include statement.md %}{% endcapture %}
+{{ p | markdownify }}
+</div>
